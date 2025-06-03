@@ -1,6 +1,9 @@
 # Get your forms responses in Discord!
 With this simple code you will be abble to implement an [AppScript](https://developers.google.com/apps-script?hl=es-419) in your forms to send every response to a discord channel using integrations.
 
+> [!WARNING]
+> Discord webhooks has limitations and over time you could experience loss of messages. For a long-term more reliable solution consider working with a Discord Bot instead of webhooks
+
 ## Installation
 
 ### 1. Workspace and code
